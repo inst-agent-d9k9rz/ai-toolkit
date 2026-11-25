@@ -1,0 +1,7 @@
+gradio_client
+trimesh
+numpy
+scipy
+Pillow
+matplotlib
+rembg
